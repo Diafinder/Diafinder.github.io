@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "webgl-diafinder.data.unityweb",
+"asmCodeUrl": "webgl-diafinder.asm.code.unityweb",
+"asmMemoryUrl": "webgl-diafinder.asm.memory.unityweb",
+"asmFrameworkUrl": "webgl-diafinder.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
